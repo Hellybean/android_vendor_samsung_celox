@@ -26,7 +26,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/hercules/proprietary/vendor/firmware/libpn544_fw.so:system/vendor/firmware/libpn544_fw.so \
 	vendor/samsung/hercules/proprietary/etc/wifi/nvram_net.txt_murata:system/etc/wifi/nvram_net.txt_murata \
 	vendor/samsung/hercules/proprietary/etc/wifi/nvram_mfg.txt_murata:system/etc/wifi/nvram_mfg.txt_murata \
-	vendor/samsung/hercules/proprietary/bin/mpdecision:system/bin/mpdecision \
 	vendor/samsung/hercules/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
 	vendor/samsung/hercules/proprietary/lib/libacdbmapper.so:system/lib/libacdbmapper.so \
 	vendor/samsung/hercules/proprietary/lib/libaudcal.so:system/lib/libaudcal.so \
@@ -105,8 +104,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/hercules/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
 	vendor/samsung/hercules/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
 	vendor/samsung/hercules/proprietary/etc/firmware/vidc_1080p.fw:system/etc/firmware/vidc_1080p.fw \
-	vendor/samsung/hercules/proprietary/bin/thermald:system/bin/thermald \
-	vendor/samsung/hercules/proprietary/etc/thermald.conf:system/etc/thermald.conf \
 	vendor/samsung/hercules/proprietary/lib/libdsm.so:system/lib/libdsm.so \
 	vendor/samsung/hercules/proprietary/lib/libthermal_mitigation_fusion.so:system/lib/libthermal_mitigation_fusion.so \
 	vendor/samsung/hercules/proprietary/lib/libthermal_mitigation.so:system/lib/libthermal_mitigation.so
